@@ -1,6 +1,7 @@
 # Bulk Downloader for ASF Data
 
-This script automates the process of downloading data from the Alaska Satellite Facility (ASF) using Earthdata Login for authentication. 
+This script is a solution to address the "Could not get file HEAD" error (https://forum.earthdata.nasa.gov/viewtopic.php?t=6287).
+It automates the process of downloading data from the Alaska Satellite Facility (ASF) using Earthdata Login for authentication. 
 
 
 
