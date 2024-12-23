@@ -27,7 +27,6 @@ For more details on bulk downloads, refer to:
     https://asf.alaska.edu/how-to/data-tools/data-tools/#bulk_download
 
 Best wishes :)
-
 """
 
 import os
